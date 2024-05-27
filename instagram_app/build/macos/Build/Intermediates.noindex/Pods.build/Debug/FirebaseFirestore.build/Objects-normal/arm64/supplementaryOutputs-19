@@ -1,0 +1,18 @@
+"/Users/sumit.sharma/Desktop/flutter_Project/FlutterApps/instagram_app/macos/Pods/FirebaseFirestore/Firestore/Swift/Source/PropertyWrapper/FirestoreQueryObservable.swift":
+  dependencies: "/Users/sumit.sharma/Desktop/flutter_Project/FlutterApps/instagram_app/build/macos/Build/Intermediates.noindex/Pods.build/Debug/FirebaseFirestore.build/Objects-normal/arm64/FirestoreQueryObservable.d"
+  swift-dependencies: "/Users/sumit.sharma/Desktop/flutter_Project/FlutterApps/instagram_app/build/macos/Build/Intermediates.noindex/Pods.build/Debug/FirebaseFirestore.build/Objects-normal/arm64/FirestoreQueryObservable.swiftdeps"
+  object: "/Users/sumit.sharma/Desktop/flutter_Project/FlutterApps/instagram_app/build/macos/Build/Intermediates.noindex/Pods.build/Debug/FirebaseFirestore.build/Objects-normal/arm64/FirestoreQueryObservable.o"
+  diagnostics: "/Users/sumit.sharma/Desktop/flutter_Project/FlutterApps/instagram_app/build/macos/Build/Intermediates.noindex/Pods.build/Debug/FirebaseFirestore.build/Objects-normal/arm64/FirestoreQueryObservable.dia"
+  const-values: "/Users/sumit.sharma/Desktop/flutter_Project/FlutterApps/instagram_app/build/macos/Build/Intermediates.noindex/Pods.build/Debug/FirebaseFirestore.build/Objects-normal/arm64/FirestoreQueryObservable.swiftconstvalues"
+"/Users/sumit.sharma/Desktop/flutter_Project/FlutterApps/instagram_app/macos/Pods/FirebaseFirestore/Firestore/Swift/Source/PropertyWrapper/FirestoreQuery.swift":
+  diagnostics: "/Users/sumit.sharma/Desktop/flutter_Project/FlutterApps/instagram_app/build/macos/Build/Intermediates.noindex/Pods.build/Debug/FirebaseFirestore.build/Objects-normal/arm64/FirestoreQuery.dia"
+  object: "/Users/sumit.sharma/Desktop/flutter_Project/FlutterApps/instagram_app/build/macos/Build/Intermediates.noindex/Pods.build/Debug/FirebaseFirestore.build/Objects-normal/arm64/FirestoreQuery.o"
+  dependencies: "/Users/sumit.sharma/Desktop/flutter_Project/FlutterApps/instagram_app/build/macos/Build/Intermediates.noindex/Pods.build/Debug/FirebaseFirestore.build/Objects-normal/arm64/FirestoreQuery.d"
+  swift-dependencies: "/Users/sumit.sharma/Desktop/flutter_Project/FlutterApps/instagram_app/build/macos/Build/Intermediates.noindex/Pods.build/Debug/FirebaseFirestore.build/Objects-normal/arm64/FirestoreQuery.swiftdeps"
+  const-values: "/Users/sumit.sharma/Desktop/flutter_Project/FlutterApps/instagram_app/build/macos/Build/Intermediates.noindex/Pods.build/Debug/FirebaseFirestore.build/Objects-normal/arm64/FirestoreQuery.swiftconstvalues"
+"/Users/sumit.sharma/Desktop/flutter_Project/FlutterApps/instagram_app/macos/Pods/FirebaseFirestore/Firestore/Swift/Source/AsyncAwait/Firestore+AsyncAwait.swift":
+  const-values: "/Users/sumit.sharma/Desktop/flutter_Project/FlutterApps/instagram_app/build/macos/Build/Intermediates.noindex/Pods.build/Debug/FirebaseFirestore.build/Objects-normal/arm64/Firestore+AsyncAwait.swiftconstvalues"
+  object: "/Users/sumit.sharma/Desktop/flutter_Project/FlutterApps/instagram_app/build/macos/Build/Intermediates.noindex/Pods.build/Debug/FirebaseFirestore.build/Objects-normal/arm64/Firestore+AsyncAwait.o"
+  diagnostics: "/Users/sumit.sharma/Desktop/flutter_Project/FlutterApps/instagram_app/build/macos/Build/Intermediates.noindex/Pods.build/Debug/FirebaseFirestore.build/Objects-normal/arm64/Firestore+AsyncAwait.dia"
+  dependencies: "/Users/sumit.sharma/Desktop/flutter_Project/FlutterApps/instagram_app/build/macos/Build/Intermediates.noindex/Pods.build/Debug/FirebaseFirestore.build/Objects-normal/arm64/Firestore+AsyncAwait.d"
+  swift-dependencies: "/Users/sumit.sharma/Desktop/flutter_Project/FlutterApps/instagram_app/build/macos/Build/Intermediates.noindex/Pods.build/Debug/FirebaseFirestore.build/Objects-normal/arm64/Firestore+AsyncAwait.swiftdeps"

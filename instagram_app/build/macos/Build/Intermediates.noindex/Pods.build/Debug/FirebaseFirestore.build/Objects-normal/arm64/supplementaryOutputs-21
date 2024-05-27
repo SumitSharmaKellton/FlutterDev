@@ -1,0 +1,18 @@
+"/Users/sumit.sharma/Desktop/flutter_Project/FlutterApps/instagram_app/macos/Pods/FirebaseFirestore/Firestore/Swift/Source/Codable/TimestampDecodingStrategy.swift":
+  swift-dependencies: "/Users/sumit.sharma/Desktop/flutter_Project/FlutterApps/instagram_app/build/macos/Build/Intermediates.noindex/Pods.build/Debug/FirebaseFirestore.build/Objects-normal/arm64/TimestampDecodingStrategy.swiftdeps"
+  diagnostics: "/Users/sumit.sharma/Desktop/flutter_Project/FlutterApps/instagram_app/build/macos/Build/Intermediates.noindex/Pods.build/Debug/FirebaseFirestore.build/Objects-normal/arm64/TimestampDecodingStrategy.dia"
+  object: "/Users/sumit.sharma/Desktop/flutter_Project/FlutterApps/instagram_app/build/macos/Build/Intermediates.noindex/Pods.build/Debug/FirebaseFirestore.build/Objects-normal/arm64/TimestampDecodingStrategy.o"
+  dependencies: "/Users/sumit.sharma/Desktop/flutter_Project/FlutterApps/instagram_app/build/macos/Build/Intermediates.noindex/Pods.build/Debug/FirebaseFirestore.build/Objects-normal/arm64/TimestampDecodingStrategy.d"
+  const-values: "/Users/sumit.sharma/Desktop/flutter_Project/FlutterApps/instagram_app/build/macos/Build/Intermediates.noindex/Pods.build/Debug/FirebaseFirestore.build/Objects-normal/arm64/TimestampDecodingStrategy.swiftconstvalues"
+"/Users/sumit.sharma/Desktop/flutter_Project/FlutterApps/instagram_app/macos/Pods/FirebaseFirestore/Firestore/Swift/Source/SwiftHeaderWorkaround.swift":
+  const-values: "/Users/sumit.sharma/Desktop/flutter_Project/FlutterApps/instagram_app/build/macos/Build/Intermediates.noindex/Pods.build/Debug/FirebaseFirestore.build/Objects-normal/arm64/SwiftHeaderWorkaround.swiftconstvalues"
+  swift-dependencies: "/Users/sumit.sharma/Desktop/flutter_Project/FlutterApps/instagram_app/build/macos/Build/Intermediates.noindex/Pods.build/Debug/FirebaseFirestore.build/Objects-normal/arm64/SwiftHeaderWorkaround.swiftdeps"
+  diagnostics: "/Users/sumit.sharma/Desktop/flutter_Project/FlutterApps/instagram_app/build/macos/Build/Intermediates.noindex/Pods.build/Debug/FirebaseFirestore.build/Objects-normal/arm64/SwiftHeaderWorkaround.dia"
+  object: "/Users/sumit.sharma/Desktop/flutter_Project/FlutterApps/instagram_app/build/macos/Build/Intermediates.noindex/Pods.build/Debug/FirebaseFirestore.build/Objects-normal/arm64/SwiftHeaderWorkaround.o"
+  dependencies: "/Users/sumit.sharma/Desktop/flutter_Project/FlutterApps/instagram_app/build/macos/Build/Intermediates.noindex/Pods.build/Debug/FirebaseFirestore.build/Objects-normal/arm64/SwiftHeaderWorkaround.d"
+"/Users/sumit.sharma/Desktop/flutter_Project/FlutterApps/instagram_app/macos/Pods/FirebaseFirestore/Firestore/Swift/Source/Codable/Timestamp+Codable.swift":
+  swift-dependencies: "/Users/sumit.sharma/Desktop/flutter_Project/FlutterApps/instagram_app/build/macos/Build/Intermediates.noindex/Pods.build/Debug/FirebaseFirestore.build/Objects-normal/arm64/Timestamp+Codable.swiftdeps"
+  dependencies: "/Users/sumit.sharma/Desktop/flutter_Project/FlutterApps/instagram_app/build/macos/Build/Intermediates.noindex/Pods.build/Debug/FirebaseFirestore.build/Objects-normal/arm64/Timestamp+Codable.d"
+  diagnostics: "/Users/sumit.sharma/Desktop/flutter_Project/FlutterApps/instagram_app/build/macos/Build/Intermediates.noindex/Pods.build/Debug/FirebaseFirestore.build/Objects-normal/arm64/Timestamp+Codable.dia"
+  const-values: "/Users/sumit.sharma/Desktop/flutter_Project/FlutterApps/instagram_app/build/macos/Build/Intermediates.noindex/Pods.build/Debug/FirebaseFirestore.build/Objects-normal/arm64/Timestamp+Codable.swiftconstvalues"
+  object: "/Users/sumit.sharma/Desktop/flutter_Project/FlutterApps/instagram_app/build/macos/Build/Intermediates.noindex/Pods.build/Debug/FirebaseFirestore.build/Objects-normal/arm64/Timestamp+Codable.o"

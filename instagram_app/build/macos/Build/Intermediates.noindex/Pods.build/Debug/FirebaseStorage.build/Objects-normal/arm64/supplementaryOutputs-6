@@ -1,0 +1,18 @@
+"/Users/sumit.sharma/Desktop/flutter_Project/FlutterApps/instagram_app/macos/Pods/FirebaseStorage/FirebaseStorage/Sources/StorageReference.swift":
+  diagnostics: "/Users/sumit.sharma/Desktop/flutter_Project/FlutterApps/instagram_app/build/macos/Build/Intermediates.noindex/Pods.build/Debug/FirebaseStorage.build/Objects-normal/arm64/StorageReference.dia"
+  dependencies: "/Users/sumit.sharma/Desktop/flutter_Project/FlutterApps/instagram_app/build/macos/Build/Intermediates.noindex/Pods.build/Debug/FirebaseStorage.build/Objects-normal/arm64/StorageReference.d"
+  const-values: "/Users/sumit.sharma/Desktop/flutter_Project/FlutterApps/instagram_app/build/macos/Build/Intermediates.noindex/Pods.build/Debug/FirebaseStorage.build/Objects-normal/arm64/StorageReference.swiftconstvalues"
+  object: "/Users/sumit.sharma/Desktop/flutter_Project/FlutterApps/instagram_app/build/macos/Build/Intermediates.noindex/Pods.build/Debug/FirebaseStorage.build/Objects-normal/arm64/StorageReference.o"
+  swift-dependencies: "/Users/sumit.sharma/Desktop/flutter_Project/FlutterApps/instagram_app/build/macos/Build/Intermediates.noindex/Pods.build/Debug/FirebaseStorage.build/Objects-normal/arm64/StorageReference.swiftdeps"
+"/Users/sumit.sharma/Desktop/flutter_Project/FlutterApps/instagram_app/macos/Pods/FirebaseStorage/FirebaseStorage/Sources/StorageTaskSnapshot.swift":
+  swift-dependencies: "/Users/sumit.sharma/Desktop/flutter_Project/FlutterApps/instagram_app/build/macos/Build/Intermediates.noindex/Pods.build/Debug/FirebaseStorage.build/Objects-normal/arm64/StorageTaskSnapshot.swiftdeps"
+  const-values: "/Users/sumit.sharma/Desktop/flutter_Project/FlutterApps/instagram_app/build/macos/Build/Intermediates.noindex/Pods.build/Debug/FirebaseStorage.build/Objects-normal/arm64/StorageTaskSnapshot.swiftconstvalues"
+  dependencies: "/Users/sumit.sharma/Desktop/flutter_Project/FlutterApps/instagram_app/build/macos/Build/Intermediates.noindex/Pods.build/Debug/FirebaseStorage.build/Objects-normal/arm64/StorageTaskSnapshot.d"
+  object: "/Users/sumit.sharma/Desktop/flutter_Project/FlutterApps/instagram_app/build/macos/Build/Intermediates.noindex/Pods.build/Debug/FirebaseStorage.build/Objects-normal/arm64/StorageTaskSnapshot.o"
+  diagnostics: "/Users/sumit.sharma/Desktop/flutter_Project/FlutterApps/instagram_app/build/macos/Build/Intermediates.noindex/Pods.build/Debug/FirebaseStorage.build/Objects-normal/arm64/StorageTaskSnapshot.dia"
+"/Users/sumit.sharma/Desktop/flutter_Project/FlutterApps/instagram_app/macos/Pods/FirebaseStorage/FirebaseStorage/Sources/StorageTask.swift":
+  dependencies: "/Users/sumit.sharma/Desktop/flutter_Project/FlutterApps/instagram_app/build/macos/Build/Intermediates.noindex/Pods.build/Debug/FirebaseStorage.build/Objects-normal/arm64/StorageTask.d"
+  swift-dependencies: "/Users/sumit.sharma/Desktop/flutter_Project/FlutterApps/instagram_app/build/macos/Build/Intermediates.noindex/Pods.build/Debug/FirebaseStorage.build/Objects-normal/arm64/StorageTask.swiftdeps"
+  diagnostics: "/Users/sumit.sharma/Desktop/flutter_Project/FlutterApps/instagram_app/build/macos/Build/Intermediates.noindex/Pods.build/Debug/FirebaseStorage.build/Objects-normal/arm64/StorageTask.dia"
+  object: "/Users/sumit.sharma/Desktop/flutter_Project/FlutterApps/instagram_app/build/macos/Build/Intermediates.noindex/Pods.build/Debug/FirebaseStorage.build/Objects-normal/arm64/StorageTask.o"
+  const-values: "/Users/sumit.sharma/Desktop/flutter_Project/FlutterApps/instagram_app/build/macos/Build/Intermediates.noindex/Pods.build/Debug/FirebaseStorage.build/Objects-normal/arm64/StorageTask.swiftconstvalues"

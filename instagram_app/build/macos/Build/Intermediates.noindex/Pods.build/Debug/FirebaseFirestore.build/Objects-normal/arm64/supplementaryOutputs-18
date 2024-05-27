@@ -1,0 +1,18 @@
+"/Users/sumit.sharma/Desktop/flutter_Project/FlutterApps/instagram_app/macos/Pods/FirebaseFirestore/Firestore/Swift/Source/Codable/FieldValue+Encodable.swift":
+  object: "/Users/sumit.sharma/Desktop/flutter_Project/FlutterApps/instagram_app/build/macos/Build/Intermediates.noindex/Pods.build/Debug/FirebaseFirestore.build/Objects-normal/arm64/FieldValue+Encodable.o"
+  const-values: "/Users/sumit.sharma/Desktop/flutter_Project/FlutterApps/instagram_app/build/macos/Build/Intermediates.noindex/Pods.build/Debug/FirebaseFirestore.build/Objects-normal/arm64/FieldValue+Encodable.swiftconstvalues"
+  swift-dependencies: "/Users/sumit.sharma/Desktop/flutter_Project/FlutterApps/instagram_app/build/macos/Build/Intermediates.noindex/Pods.build/Debug/FirebaseFirestore.build/Objects-normal/arm64/FieldValue+Encodable.swiftdeps"
+  dependencies: "/Users/sumit.sharma/Desktop/flutter_Project/FlutterApps/instagram_app/build/macos/Build/Intermediates.noindex/Pods.build/Debug/FirebaseFirestore.build/Objects-normal/arm64/FieldValue+Encodable.d"
+  diagnostics: "/Users/sumit.sharma/Desktop/flutter_Project/FlutterApps/instagram_app/build/macos/Build/Intermediates.noindex/Pods.build/Debug/FirebaseFirestore.build/Objects-normal/arm64/FieldValue+Encodable.dia"
+"/Users/sumit.sharma/Desktop/flutter_Project/FlutterApps/instagram_app/macos/Pods/FirebaseFirestore/Firestore/Swift/Source/Codable/EncoderDecoder.swift":
+  object: "/Users/sumit.sharma/Desktop/flutter_Project/FlutterApps/instagram_app/build/macos/Build/Intermediates.noindex/Pods.build/Debug/FirebaseFirestore.build/Objects-normal/arm64/EncoderDecoder.o"
+  const-values: "/Users/sumit.sharma/Desktop/flutter_Project/FlutterApps/instagram_app/build/macos/Build/Intermediates.noindex/Pods.build/Debug/FirebaseFirestore.build/Objects-normal/arm64/EncoderDecoder.swiftconstvalues"
+  dependencies: "/Users/sumit.sharma/Desktop/flutter_Project/FlutterApps/instagram_app/build/macos/Build/Intermediates.noindex/Pods.build/Debug/FirebaseFirestore.build/Objects-normal/arm64/EncoderDecoder.d"
+  swift-dependencies: "/Users/sumit.sharma/Desktop/flutter_Project/FlutterApps/instagram_app/build/macos/Build/Intermediates.noindex/Pods.build/Debug/FirebaseFirestore.build/Objects-normal/arm64/EncoderDecoder.swiftdeps"
+  diagnostics: "/Users/sumit.sharma/Desktop/flutter_Project/FlutterApps/instagram_app/build/macos/Build/Intermediates.noindex/Pods.build/Debug/FirebaseFirestore.build/Objects-normal/arm64/EncoderDecoder.dia"
+"/Users/sumit.sharma/Desktop/flutter_Project/FlutterApps/instagram_app/macos/Pods/FirebaseFirestore/Firestore/Swift/Source/Codable/ExplicitNull.swift":
+  swift-dependencies: "/Users/sumit.sharma/Desktop/flutter_Project/FlutterApps/instagram_app/build/macos/Build/Intermediates.noindex/Pods.build/Debug/FirebaseFirestore.build/Objects-normal/arm64/ExplicitNull.swiftdeps"
+  diagnostics: "/Users/sumit.sharma/Desktop/flutter_Project/FlutterApps/instagram_app/build/macos/Build/Intermediates.noindex/Pods.build/Debug/FirebaseFirestore.build/Objects-normal/arm64/ExplicitNull.dia"
+  dependencies: "/Users/sumit.sharma/Desktop/flutter_Project/FlutterApps/instagram_app/build/macos/Build/Intermediates.noindex/Pods.build/Debug/FirebaseFirestore.build/Objects-normal/arm64/ExplicitNull.d"
+  object: "/Users/sumit.sharma/Desktop/flutter_Project/FlutterApps/instagram_app/build/macos/Build/Intermediates.noindex/Pods.build/Debug/FirebaseFirestore.build/Objects-normal/arm64/ExplicitNull.o"
+  const-values: "/Users/sumit.sharma/Desktop/flutter_Project/FlutterApps/instagram_app/build/macos/Build/Intermediates.noindex/Pods.build/Debug/FirebaseFirestore.build/Objects-normal/arm64/ExplicitNull.swiftconstvalues"
